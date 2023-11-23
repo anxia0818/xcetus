@@ -1,0 +1,1 @@
+import"./entry.8c324c13.js";const i=""+globalThis.__publicAssetsURL("sui-image/icon_Slippage_tolerance@2x.png"),o=""+globalThis.__publicAssetsURL("sui-image/icon-warning@2x.png"),_=""+globalThis.__publicAssetsURL("sui-image/icon-error@2x.png");export{o as _,_ as a,i as b};
