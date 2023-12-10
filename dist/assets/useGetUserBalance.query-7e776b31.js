@@ -1,1 +1,0 @@
-import{Q as s}from"./index-b72ef6f4.js";import{u as t}from"./graphql-hooks-5396bcd2.js";function i(e){const{loading:o,error:r,data:n}=t({variables:{owner:e},onError:a=>{s.error((a==null?void 0:a.message)??`Failed to fetch balance from address: ${e}`)}});return{loading:o,error:r,data:n}}export{i as u};
