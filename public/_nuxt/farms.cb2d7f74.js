@@ -1,1 +1,0 @@
-import"./entry.d95cff40.js";const i=""+globalThis.__publicAssetsURL("sui-image/farms.gif");export{i as _};
