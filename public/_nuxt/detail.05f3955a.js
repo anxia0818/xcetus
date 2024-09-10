@@ -1,0 +1,1 @@
+import{fm as e}from"./entry.d5ed7d5d.js";const c=e((t,r)=>{const o=document.querySelector(".body-container-bg");console.log(o==null?void 0:o.scrollHeight,"scrollHeight#"),o&&o.scrollTo({top:0})});export{c as default};
